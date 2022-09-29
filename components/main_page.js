@@ -46,7 +46,7 @@ function getMainPage() {
           </div>
         </div>
       </div>
-      <h1 class="bui-page-header__title">Manage children rates by room, rate and dates.</h1>
+      <h1 class="bui-page-header__title">Manage children rates by room type, rate plan and date</h1>
     </div>
 
     <div id="page" class="bui-grid">

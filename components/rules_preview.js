@@ -26,7 +26,7 @@ function getRulesPreview(roomId, rateId, isPerDateBlock) {
         </div>
         <span class="children-rate-pricing-preview__disclaimer">
           <span>
-            The last available room rate is used to calculate percentage-based prices. This preview doesn't include taxes, fees, or applied discounts.
+            This preview doesn't include taxes, fees, or applied discounts.
           </span>
         </span>
       </div>

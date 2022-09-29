@@ -20,8 +20,9 @@ function getPrice(priceSettings, showPercentage) {
       return `${currency} ${priceSettings.price}`;
       break;
     case "2":
-      return showPercentage ? `${priceSettings.price} %` : `${currency} ${priceSettings.price * (basePrice
-          / 100)}`;
+      // in this round of prototype, we will always show %, since we will not have a base price to calculate
+      // return showPercentage ? `${priceSettings.price} %` : `${currency} ${priceSettings.price * (basePrice / 100)}`;
+      return `${priceSettings.price} %`;
     default:
       return 'adult price';
   }

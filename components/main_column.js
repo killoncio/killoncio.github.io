@@ -40,7 +40,7 @@ function getActionButtons(roomId, rateId, isEditMode) {
   return `
       <div role="group" class="bui-card__actions bui-group bui-group--inline">
         <button class="bui-button bui-button--secondary children-rate-pricing-preview__edit-button" type="button" data-rate=${rateId} data-room=${roomId}>
-          <span class="bui-button__text" >Edit this setup</span>
+          <span class="bui-button__text" >Edit</span>
         </button>
         <button class="bui-button bui-button--secondary children-rate-pricing-preview__duplicate-button" type="button" data-rate=${rateId} data-room=${roomId}>
           <span class="bui-button__text">Duplicate</span>

@@ -463,7 +463,7 @@ function getCPPOPage() {
         2
       </option><option value="3">
         3
-      </option><option value="4">
+      </option><option selected="selected" value="4">
         4
       </option><option value="5">
         5
@@ -477,7 +477,7 @@ function getCPPOPage() {
         9
       </option><option value="10">
         10
-      </option><option selected="selected" value="11">
+      </option><option value="11">
         11
       </option><option value="12">
         12
@@ -559,321 +559,13 @@ function getCPPOPage() {
         50
       </option></select> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="bui-input-select__icon"><path d="M12 20.09a1.24 1.24 0 0 1-.88-.36L6 14.61a.75.75 0 1 1 1.06-1.06L12 18.49l4.94-4.94A.75.75 0 0 1 18 14.61l-5.12 5.12a1.24 1.24 0 0 1-.88.36zm6-9.46a.75.75 0 0 0 0-1.06l-5.12-5.11a1.24 1.24 0 0 0-1.754-.006l-.006.006L6 9.57a.75.75 0 0 0 0 1.06.74.74 0 0 0 1.06 0L12 5.7l4.94 4.93a.73.73 0 0 0 .53.22c.2 0 .39-.078.53-.22z"></path></svg></div> <!----></div></td> <td data-test-id="max-adults-table-cell" class="bui-table__cell"><div class="child-policies-input--narrow bui-form__group"><label for="maxAdults" style="display:none;"></label> <div class="bui-input-select"><select id="maxAdults" class="bui-form__control"><option value="1">
           1
-        </option><option value="2">
+        </option><option selected="selected" value="2">
           2
         </option><option value="3">
           3
         </option><option value="4">
           4
         </option><option value="5">
-          5
-        </option><option value="6">
-          6
-        </option><option value="7">
-          7
-        </option><option value="8">
-          8
-        </option><option value="9">
-          9
-        </option><option value="10">
-          10
-        </option><option selected="selected" value="11">
-          11
-        </option><option value="12">
-          12
-        </option><option value="13">
-          13
-        </option><option value="14">
-          14
-        </option><option value="15">
-          15
-        </option><option value="16">
-          16
-        </option><option value="17">
-          17
-        </option><option value="18">
-          18
-        </option><option value="19">
-          19
-        </option><option value="20">
-          20
-        </option><option value="21">
-          21
-        </option><option value="22">
-          22
-        </option><option value="23">
-          23
-        </option><option value="24">
-          24
-        </option><option value="25">
-          25
-        </option><option value="26">
-          26
-        </option><option value="27">
-          27
-        </option><option value="28">
-          28
-        </option><option value="29">
-          29
-        </option><option value="30">
-          30
-        </option><option value="31">
-          31
-        </option><option value="32">
-          32
-        </option><option value="33">
-          33
-        </option><option value="34">
-          34
-        </option><option value="35">
-          35
-        </option><option value="36">
-          36
-        </option><option value="37">
-          37
-        </option><option value="38">
-          38
-        </option><option value="39">
-          39
-        </option><option value="40">
-          40
-        </option><option value="41">
-          41
-        </option><option value="42">
-          42
-        </option><option value="43">
-          43
-        </option><option value="44">
-          44
-        </option><option value="45">
-          45
-        </option><option value="46">
-          46
-        </option><option value="47">
-          47
-        </option><option value="48">
-          48
-        </option><option value="49">
-          49
-        </option><option value="50">
-          50
-        </option></select> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="bui-input-select__icon"><path d="M12 20.09a1.24 1.24 0 0 1-.88-.36L6 14.61a.75.75 0 1 1 1.06-1.06L12 18.49l4.94-4.94A.75.75 0 0 1 18 14.61l-5.12 5.12a1.24 1.24 0 0 1-.88.36zm6-9.46a.75.75 0 0 0 0-1.06l-5.12-5.11a1.24 1.24 0 0 0-1.754-.006l-.006.006L6 9.57a.75.75 0 0 0 0 1.06.74.74 0 0 0 1.06 0L12 5.7l4.94 4.93a.73.73 0 0 0 .53.22c.2 0 .39-.078.53-.22z"></path></svg></div> <!----></div></td> <td class="bui-table__cell"><div class="child-policies-input--narrow bui-form__group"><label for="maxChildrenPhysical" style="display:none;"></label> <div class="bui-input-select"><select id="maxChildrenPhysical" class="bui-form__control"><option value="0">
-        0
-      </option><option value="1">
-        1
-      </option><option value="2">
-        2
-      </option><option value="3">
-        3
-      </option><option value="4">
-        4
-      </option><option value="5">
-        5
-      </option><option value="6">
-        6
-      </option><option value="7">
-        7
-      </option><option value="8">
-        8
-      </option><option value="9">
-        9
-      </option><option selected="selected" value="10">
-        10
-      </option><option value="11">
-        11
-      </option><option value="12">
-        12
-      </option><option value="13">
-        13
-      </option><option value="14">
-        14
-      </option><option value="15">
-        15
-      </option><option value="16">
-        16
-      </option><option value="17">
-        17
-      </option><option value="18">
-        18
-      </option><option value="19">
-        19
-      </option><option value="20">
-        20
-      </option><option value="21">
-        21
-      </option><option value="22">
-        22
-      </option><option value="23">
-        23
-      </option><option value="24">
-        24
-      </option><option value="25">
-        25
-      </option><option value="26">
-        26
-      </option><option value="27">
-        27
-      </option><option value="28">
-        28
-      </option><option value="29">
-        29
-      </option><option value="30">
-        30
-      </option><option value="31">
-        31
-      </option><option value="32">
-        32
-      </option><option value="33">
-        33
-      </option><option value="34">
-        34
-      </option><option value="35">
-        35
-      </option><option value="36">
-        36
-      </option><option value="37">
-        37
-      </option><option value="38">
-        38
-      </option><option value="39">
-        39
-      </option><option value="40">
-        40
-      </option><option value="41">
-        41
-      </option><option value="42">
-        42
-      </option><option value="43">
-        43
-      </option><option value="44">
-        44
-      </option><option value="45">
-        45
-      </option><option value="46">
-        46
-      </option><option value="47">
-        47
-      </option><option value="48">
-        48
-      </option><option value="49">
-        49
-      </option><option value="50">
-        50
-      </option></select> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="bui-input-select__icon"><path d="M12 20.09a1.24 1.24 0 0 1-.88-.36L6 14.61a.75.75 0 1 1 1.06-1.06L12 18.49l4.94-4.94A.75.75 0 0 1 18 14.61l-5.12 5.12a1.24 1.24 0 0 1-.88.36zm6-9.46a.75.75 0 0 0 0-1.06l-5.12-5.11a1.24 1.24 0 0 0-1.754-.006l-.006.006L6 9.57a.75.75 0 0 0 0 1.06.74.74 0 0 0 1.06 0L12 5.7l4.94 4.93a.73.73 0 0 0 .53.22c.2 0 .39-.078.53-.22z"></path></svg></div> <!----></div></td> <td class="bui-table__cell"><div class="bui-stepper pricing-occupancy-table-row__stepper"><div class="bui-stepper__title-wrapper"><label for="childrenPricedAsChildren" class="bui-stepper__title"></label> <!----></div> <div class="bui-stepper__wrapper"><input id="childrenPricedAsChildren" disabled="disabled" autocomplete="off" step="1" type="range" value="0" class="bui-stepper__input"> <button type="button" disabled="disabled" data-test-id="subtract-button" aria-hidden="true" class="bui-stepper__subtract-button bui-button bui-button--secondary"><!----> <span class="bui-button__text">
-      -
-    </span></button> <span data-test-id="display" aria-hidden="true" class="bui-stepper__display"><span>0 children</span></span> <button type="button" disabled="disabled" data-test-id="add-button" aria-hidden="true" class="bui-stepper__add-button bui-button bui-button--secondary"><!----> <span class="bui-button__text">
-      +
-    </span></button></div></div></td></tr><tr data-test-id="pricing-table-row" class="bui-table__row"><th scope="row" class="bui-table__cell bui-table__cell--row-head"><a href="/hotel/hoteladmin/extranet_ng/manage/rooms.html?hotel_id=2074766&amp;ses=bc0bba80c8e7c0518f2faf95aa02a1f3&amp;lang=xu#edit-207476602-occupancy" class="bui-link bui-link--primary">
-      Junior Suite
-    </a></th> <td class="bui-table__cell"><div class="child-policies-input--narrow bui-form__group"><label for="maxOccupancy" style="display:none;"></label> <div class="bui-input-select"><select id="maxOccupancy" class="bui-form__control"><option value="1">
-        1
-      </option><option value="2">
-        2
-      </option><option value="3">
-        3
-      </option><option value="4">
-        4
-      </option><option selected="selected" value="5">
-        5
-      </option><option value="6">
-        6
-      </option><option value="7">
-        7
-      </option><option value="8">
-        8
-      </option><option value="9">
-        9
-      </option><option value="10">
-        10
-      </option><option value="11">
-        11
-      </option><option value="12">
-        12
-      </option><option value="13">
-        13
-      </option><option value="14">
-        14
-      </option><option value="15">
-        15
-      </option><option value="16">
-        16
-      </option><option value="17">
-        17
-      </option><option value="18">
-        18
-      </option><option value="19">
-        19
-      </option><option value="20">
-        20
-      </option><option value="21">
-        21
-      </option><option value="22">
-        22
-      </option><option value="23">
-        23
-      </option><option value="24">
-        24
-      </option><option value="25">
-        25
-      </option><option value="26">
-        26
-      </option><option value="27">
-        27
-      </option><option value="28">
-        28
-      </option><option value="29">
-        29
-      </option><option value="30">
-        30
-      </option><option value="31">
-        31
-      </option><option value="32">
-        32
-      </option><option value="33">
-        33
-      </option><option value="34">
-        34
-      </option><option value="35">
-        35
-      </option><option value="36">
-        36
-      </option><option value="37">
-        37
-      </option><option value="38">
-        38
-      </option><option value="39">
-        39
-      </option><option value="40">
-        40
-      </option><option value="41">
-        41
-      </option><option value="42">
-        42
-      </option><option value="43">
-        43
-      </option><option value="44">
-        44
-      </option><option value="45">
-        45
-      </option><option value="46">
-        46
-      </option><option value="47">
-        47
-      </option><option value="48">
-        48
-      </option><option value="49">
-        49
-      </option><option value="50">
-        50
-      </option></select> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="bui-input-select__icon"><path d="M12 20.09a1.24 1.24 0 0 1-.88-.36L6 14.61a.75.75 0 1 1 1.06-1.06L12 18.49l4.94-4.94A.75.75 0 0 1 18 14.61l-5.12 5.12a1.24 1.24 0 0 1-.88.36zm6-9.46a.75.75 0 0 0 0-1.06l-5.12-5.11a1.24 1.24 0 0 0-1.754-.006l-.006.006L6 9.57a.75.75 0 0 0 0 1.06.74.74 0 0 0 1.06 0L12 5.7l4.94 4.93a.73.73 0 0 0 .53.22c.2 0 .39-.078.53-.22z"></path></svg></div> <!----></div></td> <td data-test-id="max-adults-table-cell" class="bui-table__cell"><div class="child-policies-input--narrow bui-form__group"><label for="maxAdults" style="display:none;"></label> <div class="bui-input-select"><select id="maxAdults" class="bui-form__control"><option value="1">
-          1
-        </option><option value="2">
-          2
-        </option><option value="3">
-          3
-        </option><option value="4">
-          4
-        </option><option selected="selected" value="5">
           5
         </option><option value="6">
           6
@@ -969,11 +661,319 @@ function getCPPOPage() {
         0
       </option><option value="1">
         1
+      </option><option selected="selected" value="2">
+        2
+      </option><option value="3">
+        3
+      </option><option value="4">
+        4
+      </option><option value="5">
+        5
+      </option><option value="6">
+        6
+      </option><option value="7">
+        7
+      </option><option value="8">
+        8
+      </option><option value="9">
+        9
+      </option><option value="10">
+        10
+      </option><option value="11">
+        11
+      </option><option value="12">
+        12
+      </option><option value="13">
+        13
+      </option><option value="14">
+        14
+      </option><option value="15">
+        15
+      </option><option value="16">
+        16
+      </option><option value="17">
+        17
+      </option><option value="18">
+        18
+      </option><option value="19">
+        19
+      </option><option value="20">
+        20
+      </option><option value="21">
+        21
+      </option><option value="22">
+        22
+      </option><option value="23">
+        23
+      </option><option value="24">
+        24
+      </option><option value="25">
+        25
+      </option><option value="26">
+        26
+      </option><option value="27">
+        27
+      </option><option value="28">
+        28
+      </option><option value="29">
+        29
+      </option><option value="30">
+        30
+      </option><option value="31">
+        31
+      </option><option value="32">
+        32
+      </option><option value="33">
+        33
+      </option><option value="34">
+        34
+      </option><option value="35">
+        35
+      </option><option value="36">
+        36
+      </option><option value="37">
+        37
+      </option><option value="38">
+        38
+      </option><option value="39">
+        39
+      </option><option value="40">
+        40
+      </option><option value="41">
+        41
+      </option><option value="42">
+        42
+      </option><option value="43">
+        43
+      </option><option value="44">
+        44
+      </option><option value="45">
+        45
+      </option><option value="46">
+        46
+      </option><option value="47">
+        47
+      </option><option value="48">
+        48
+      </option><option value="49">
+        49
+      </option><option value="50">
+        50
+      </option></select> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="bui-input-select__icon"><path d="M12 20.09a1.24 1.24 0 0 1-.88-.36L6 14.61a.75.75 0 1 1 1.06-1.06L12 18.49l4.94-4.94A.75.75 0 0 1 18 14.61l-5.12 5.12a1.24 1.24 0 0 1-.88.36zm6-9.46a.75.75 0 0 0 0-1.06l-5.12-5.11a1.24 1.24 0 0 0-1.754-.006l-.006.006L6 9.57a.75.75 0 0 0 0 1.06.74.74 0 0 0 1.06 0L12 5.7l4.94 4.93a.73.73 0 0 0 .53.22c.2 0 .39-.078.53-.22z"></path></svg></div> <!----></div></td> <td class="bui-table__cell"><div class="bui-stepper pricing-occupancy-table-row__stepper"><div class="bui-stepper__title-wrapper"><label for="childrenPricedAsChildren" class="bui-stepper__title"></label> <!----></div> <div class="bui-stepper__wrapper"><input id="childrenPricedAsChildren" disabled="disabled" autocomplete="off" step="1" type="range" value="0" class="bui-stepper__input"> <button type="button" disabled="disabled" data-test-id="subtract-button" aria-hidden="true" class="bui-stepper__subtract-button bui-button bui-button--secondary"><!----> <span class="bui-button__text">
+      -
+    </span></button> <span data-test-id="display" aria-hidden="true" class="bui-stepper__display"><span>0 children</span></span> <button type="button" disabled="disabled" data-test-id="add-button" aria-hidden="true" class="bui-stepper__add-button bui-button bui-button--secondary"><!----> <span class="bui-button__text">
+      +
+    </span></button></div></div></td></tr><tr data-test-id="pricing-table-row" class="bui-table__row"><th scope="row" class="bui-table__cell bui-table__cell--row-head"><a href="/hotel/hoteladmin/extranet_ng/manage/rooms.html?hotel_id=2074766&amp;ses=bc0bba80c8e7c0518f2faf95aa02a1f3&amp;lang=xu#edit-207476602-occupancy" class="bui-link bui-link--primary">
+      Junior Suite
+    </a></th> <td class="bui-table__cell"><div class="child-policies-input--narrow bui-form__group"><label for="maxOccupancy" style="display:none;"></label> <div class="bui-input-select"><select id="maxOccupancy" class="bui-form__control"><option value="1">
+        1
+      </option><option selected="selected" value="2">
+        2
+      </option><option value="3">
+        3
+      </option><option value="4">
+        4
+      </option><option value="5">
+        5
+      </option><option value="6">
+        6
+      </option><option value="7">
+        7
+      </option><option value="8">
+        8
+      </option><option value="9">
+        9
+      </option><option value="10">
+        10
+      </option><option value="11">
+        11
+      </option><option value="12">
+        12
+      </option><option value="13">
+        13
+      </option><option value="14">
+        14
+      </option><option value="15">
+        15
+      </option><option value="16">
+        16
+      </option><option value="17">
+        17
+      </option><option value="18">
+        18
+      </option><option value="19">
+        19
+      </option><option value="20">
+        20
+      </option><option value="21">
+        21
+      </option><option value="22">
+        22
+      </option><option value="23">
+        23
+      </option><option value="24">
+        24
+      </option><option value="25">
+        25
+      </option><option value="26">
+        26
+      </option><option value="27">
+        27
+      </option><option value="28">
+        28
+      </option><option value="29">
+        29
+      </option><option value="30">
+        30
+      </option><option value="31">
+        31
+      </option><option value="32">
+        32
+      </option><option value="33">
+        33
+      </option><option value="34">
+        34
+      </option><option value="35">
+        35
+      </option><option value="36">
+        36
+      </option><option value="37">
+        37
+      </option><option value="38">
+        38
+      </option><option value="39">
+        39
+      </option><option value="40">
+        40
+      </option><option value="41">
+        41
+      </option><option value="42">
+        42
+      </option><option value="43">
+        43
+      </option><option value="44">
+        44
+      </option><option value="45">
+        45
+      </option><option value="46">
+        46
+      </option><option value="47">
+        47
+      </option><option value="48">
+        48
+      </option><option value="49">
+        49
+      </option><option value="50">
+        50
+      </option></select> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="bui-input-select__icon"><path d="M12 20.09a1.24 1.24 0 0 1-.88-.36L6 14.61a.75.75 0 1 1 1.06-1.06L12 18.49l4.94-4.94A.75.75 0 0 1 18 14.61l-5.12 5.12a1.24 1.24 0 0 1-.88.36zm6-9.46a.75.75 0 0 0 0-1.06l-5.12-5.11a1.24 1.24 0 0 0-1.754-.006l-.006.006L6 9.57a.75.75 0 0 0 0 1.06.74.74 0 0 0 1.06 0L12 5.7l4.94 4.93a.73.73 0 0 0 .53.22c.2 0 .39-.078.53-.22z"></path></svg></div> <!----></div></td> <td data-test-id="max-adults-table-cell" class="bui-table__cell"><div class="child-policies-input--narrow bui-form__group"><label for="maxAdults" style="display:none;"></label> <div class="bui-input-select"><select id="maxAdults" class="bui-form__control"><option value="1">
+          1
+        </option><option selected="selected" value="2">
+          2
+        </option><option value="3">
+          3
+        </option><option value="4">
+          4
+        </option><option value="5">
+          5
+        </option><option value="6">
+          6
+        </option><option value="7">
+          7
+        </option><option value="8">
+          8
+        </option><option value="9">
+          9
+        </option><option value="10">
+          10
+        </option><option value="11">
+          11
+        </option><option value="12">
+          12
+        </option><option value="13">
+          13
+        </option><option value="14">
+          14
+        </option><option value="15">
+          15
+        </option><option value="16">
+          16
+        </option><option value="17">
+          17
+        </option><option value="18">
+          18
+        </option><option value="19">
+          19
+        </option><option value="20">
+          20
+        </option><option value="21">
+          21
+        </option><option value="22">
+          22
+        </option><option value="23">
+          23
+        </option><option value="24">
+          24
+        </option><option value="25">
+          25
+        </option><option value="26">
+          26
+        </option><option value="27">
+          27
+        </option><option value="28">
+          28
+        </option><option value="29">
+          29
+        </option><option value="30">
+          30
+        </option><option value="31">
+          31
+        </option><option value="32">
+          32
+        </option><option value="33">
+          33
+        </option><option value="34">
+          34
+        </option><option value="35">
+          35
+        </option><option value="36">
+          36
+        </option><option value="37">
+          37
+        </option><option value="38">
+          38
+        </option><option value="39">
+          39
+        </option><option value="40">
+          40
+        </option><option value="41">
+          41
+        </option><option value="42">
+          42
+        </option><option value="43">
+          43
+        </option><option value="44">
+          44
+        </option><option value="45">
+          45
+        </option><option value="46">
+          46
+        </option><option value="47">
+          47
+        </option><option value="48">
+          48
+        </option><option value="49">
+          49
+        </option><option value="50">
+          50
+        </option></select> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="bui-input-select__icon"><path d="M12 20.09a1.24 1.24 0 0 1-.88-.36L6 14.61a.75.75 0 1 1 1.06-1.06L12 18.49l4.94-4.94A.75.75 0 0 1 18 14.61l-5.12 5.12a1.24 1.24 0 0 1-.88.36zm6-9.46a.75.75 0 0 0 0-1.06l-5.12-5.11a1.24 1.24 0 0 0-1.754-.006l-.006.006L6 9.57a.75.75 0 0 0 0 1.06.74.74 0 0 0 1.06 0L12 5.7l4.94 4.93a.73.73 0 0 0 .53.22c.2 0 .39-.078.53-.22z"></path></svg></div> <!----></div></td> <td class="bui-table__cell"><div class="child-policies-input--narrow bui-form__group"><label for="maxChildrenPhysical" style="display:none;"></label> <div class="bui-input-select"><select id="maxChildrenPhysical" class="bui-form__control"><option value="0">
+        0
+      </option><option selected="selected" value="1">
+        1
       </option><option value="2">
         2
       </option><option value="3">
         3
-      </option><option selected="selected" value="4">
+      </option><option value="4">
         4
       </option><option value="5">
         5
@@ -1079,13 +1079,13 @@ function getCPPOPage() {
         2
       </option><option value="3">
         3
-      </option><option value="4">
+      </option><option selected="selected" value="4">
         4
       </option><option value="5">
         5
       </option><option value="6">
         6
-      </option><option selected="selected" value="7">
+      </option><option value="7">
         7
       </option><option value="8">
         8
@@ -1175,7 +1175,7 @@ function getCPPOPage() {
         50
       </option></select> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="bui-input-select__icon"><path d="M12 20.09a1.24 1.24 0 0 1-.88-.36L6 14.61a.75.75 0 1 1 1.06-1.06L12 18.49l4.94-4.94A.75.75 0 0 1 18 14.61l-5.12 5.12a1.24 1.24 0 0 1-.88.36zm6-9.46a.75.75 0 0 0 0-1.06l-5.12-5.11a1.24 1.24 0 0 0-1.754-.006l-.006.006L6 9.57a.75.75 0 0 0 0 1.06.74.74 0 0 0 1.06 0L12 5.7l4.94 4.93a.73.73 0 0 0 .53.22c.2 0 .39-.078.53-.22z"></path></svg></div> <!----></div></td> <td data-test-id="max-adults-table-cell" class="bui-table__cell"><div class="child-policies-input--narrow bui-form__group"><label for="maxAdults" style="display:none;"></label> <div class="bui-input-select"><select id="maxAdults" class="bui-form__control"><option value="1">
           1
-        </option><option value="2">
+        </option><option selected="selected" value="2">
           2
         </option><option value="3">
           3
@@ -1185,7 +1185,7 @@ function getCPPOPage() {
           5
         </option><option value="6">
           6
-        </option><option selected="selected" value="7">
+        </option><option value="7">
           7
         </option><option value="8">
           8
@@ -1277,7 +1277,7 @@ function getCPPOPage() {
         0
       </option><option value="1">
         1
-      </option><option value="2">
+      </option><option selected="selected" value="2">
         2
       </option><option value="3">
         3
@@ -1285,7 +1285,7 @@ function getCPPOPage() {
         4
       </option><option value="5">
         5
-      </option><option selected="selected" value="6">
+      </option><option value="6">
         6
       </option><option value="7">
         7
