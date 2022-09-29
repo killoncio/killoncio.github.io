@@ -1,0 +1,412 @@
+body {
+  background-color: #f5f5f5;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.bui-card__header {
+    margin-bottom: 16px;
+}
+
+.bui-page-header__title, .bui-page-header__title[class^=bui-] {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.3333333333em;
+    margin: 0 16px 8px 0;
+}
+
+#main-content {
+  position: relative;
+  padding: 0 40px;
+  max-width: 1140px;
+  margin: auto;
+  justify-content: #E5E5E5;
+  padding-top: 8px;
+}
+
+.children-rate-info__icon {
+  float: right;
+  cursor: pointer;
+}
+
+#rules-preview {
+  margin-bottom: 20px;
+}
+
+.preview-btn-container {
+  margin-top: 10px;
+}
+
+.room-header {
+  margin-bottom: 10px;
+}
+
+.accordion-content__header {
+  margin-bottom: 10px;
+}
+
+.main-content p:last-of-type {
+  margin-bottom: 60px;
+}
+
+.form-group {
+  width: 170px;
+}
+
+#changes-saved {
+  margin-bottom: 10px;
+}
+
+.form-group__inline {
+  margin-bottom: 20px;
+}
+
+.banner__icon {
+  float: left;
+  margin-top: 10px;
+}
+
+.percentage_input {
+  max-width: 80px;
+}
+
+.form-banner {
+  margin-top: 10px;
+}
+
+.rate-banner-text {
+  margin-left: 40px;
+}
+
+#right-content [id^="price"], #right-content [id^="stay"] {
+  border: 1px solid #0077cc;
+}
+
+.header {
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #003580;
+  color: #fff;
+}
+
+
+.stepper-floating,
+.bottom-nav-floating,
+.stepper,
+.bottom-nav {
+  background-color: #fff;
+  width: 100%;
+  /* color: #fff; */
+  padding: 0 10px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all .25s;
+  padding: 0;
+}
+
+.stepper,
+.bottom-nav {
+  position: fixed;
+}
+
+.stepper-floating, .stepper {
+  border-bottom: solid 1px lightgray;
+}
+
+
+.bottom-nav-floating, .bottom-nav {
+  border-top: solid 1px lightgray;
+}
+
+.stepper {
+  top: -100px;
+}
+
+.bottom-nav {
+  bottom: -100px;
+}
+
+.modal_rates_details {
+  list-style: none;
+  padding-left: 10px;
+}
+
+.room-list {
+  background-color: #FFFFFF;
+}
+
+#room-list .bui-title__text,
+#room-list .bui-list__description-title {
+  font-weight: 400;
+}
+
+#room-list .bui-is-active .bui-title__text {
+  font-weight: 700;
+}
+
+#room-list ul.bui-list {
+    margin-left: 20px;
+}
+
+.room-list__item {
+  cursor: pointer;
+}
+
+.room-list__item.active {
+  background-color: #FAFCFF;
+}
+
+.room-list__item__subtitle {
+  color: #000000;
+}
+
+.age-preview-banner {
+  background: #FAFCFF;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/*helpers*/
+
+.hide {
+  display: none !important;
+}
+
+#landing-page {
+  display: flex;
+  padding: 50px;
+}
+
+#landing-page__left {
+  width: 50%;
+  margin-right: 20px;
+}
+
+#landing-page__right {
+  width: 50%;
+}
+
+.landing-page__right-footer {
+  padding: auto;
+}
+
+.landing-page__right-footer-learn-more {
+  margin: 10px;
+}
+
+#landing-page__right .bui-list {
+  margin-top: 20px;
+}
+
+.radio-inline-price{
+  padding: 10px 0;
+}
+
+.remove-child-price{
+  margin-top:-30px;
+  cursor: pointer;
+  display: table;
+}
+
+.add-child-price{
+  margin-top:10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  display: table;
+}
+
+#img-intro-view{
+  display: inline !important;
+  cursor: pointer;
+}
+
+#intro-modal-container{
+  display: flex;
+  padding: 20px;
+}
+
+#intro-modal-container img{
+  width: 220px;
+  height: 200px;
+  align-self: center;
+  margin: 20px;
+}
+
+.age-setup__container{
+  min-width: 100px;
+  min-height: 100px;
+  padding: 20px;
+}
+
+.age-label{
+  padding-top: 10px;
+}
+
+.div-select-room{
+  margin-left:40%;
+}
+
+.children-rate-pricing-header__title {
+  display: inline-block;
+  font-weight: 700;
+  font-size: 20px;
+  margin: 2px;
+}
+
+.children-rate-pricing-header__occupancy {
+    display: block;
+    font-size: 16px;
+    margin: 4px;
+}
+
+.children-rate-pricing-header__price {
+    display: block;
+    font-size: 16px;
+    margin: 4px;
+}
+
+.children-rate-pricing-header__info {
+    display: block;
+    font-size: 12px;
+    margin: 4px;
+    color: #6b6b6b;
+}
+
+.children-rate-price-landing {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+.children-rate-price-landing__label {
+    margin-top: 16px;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.children-rate-pricing-form--inactive {
+    color: #6b6b6b;
+}
+
+.children-rate-pricing-form--active {
+    color: #008009;s
+}
+
+.children-rate-pricing-form--active, .children-rate-pricing-form--inactive {
+    float: right;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+/* preview */
+.children-rate-pricing-preview {
+  margin-top: 8px;
+}
+
+.children-rate-pricing-preview__header {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.children-rate-pricing-preview__info {
+  border: 1px solid #bad4f7;
+  background: #fafcff;
+  align-items: center;
+  padding: 8px 16px;
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+
+.children-rate-pricing-preview__age-band {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.children-rate-pricing-preview__disclaimer {
+  font-size: 12px;
+  font-style: italic;
+}
+
+.children-rate-price-selector__disclaimer {
+    font-size: 12px;
+    font-style: italic;
+    color: #6b6b6b;
+}
+
+.children-rate-age__content {
+  margin-top: 16px;
+}
+
+.children-rate-age-preview__card {
+    margin: 8px 0;
+    border: 1px solid #bad4f7;
+    background: #fafcff;
+}
+
+.bui-button--tertiary {
+  background-color: transparent;
+  color: #07c;
+  border-color: transparent;
+}
+
+.children-rate-pricing-exceptions__action-button {
+  padding: 0px;
+}
+
+.children-rate-pricing-form__title {
+  margin-bottom: 20px;
+}
+
+.children-rate-pricing-exceptions-preview-table td {
+  padding-right: 0;
+}
+
+.children-rate-pricing-exceptions-preview-table p,
+.children-rate-pricing-exceptions-preview-table ul,
+.children-rate-pricing-exceptions-preview-table li {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.children-rate-pricing-exceptions-preview-table ul {
+  adding-top: 0;
+  padding-bottom: 0;
+}
+
+.children-rate-pricing-exceptions-preview-table__date-cel,
+.children-rate-pricing-exceptions-preview-table__age-band-cel {
+  width: 18%;
+}
+
+.children-rate-pricing-exceptions-preview-table__action-cel {
+  width: 15px;
+}
+
+.children-rate-pricing-exceptions-preview-table__action-cel:last-of-type {
+  padding-right: 16px;
+}
+
+.children-rate-pricing-preview__delete-button {
+  border-color: red;
+  color: red;
+}
